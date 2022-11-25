@@ -20,7 +20,6 @@ cd pspdfkit-vue-server
 npm install
 ```
 
-3. Run the
 ### Vue Component
 
 The Vue component which implements the PSPDFKit for Web integration is included at `src/App/Components/App.vue` with the rest of the example.
